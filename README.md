@@ -1,5 +1,6 @@
 # Deep_Learning
 COSE474 (2020-2)
+- The following repositories are written using TFv1 
 
 ## Assignment List
 1) Perceptron
